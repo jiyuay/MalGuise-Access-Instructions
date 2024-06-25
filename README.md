@@ -1,4 +1,4 @@
-This repository provides the guidelines for requesting access to the code associated with our paper "A Wolf in Sheep’s Clothing: Practical Black-box Adversarial Attacks for Evading Learning-basedWindows Malware Detection in the Wild", Usenix Security 2024.
+This repository provides the guidelines for requesting access to the code associated with our paper "**A Wolf in Sheep’s Clothing: Practical Black-box Adversarial Attacks for Evading Learning-basedWindows Malware Detection in the Wild**", Usenix Security 2024.
 
 # 1. Introduction
 
@@ -39,7 +39,7 @@ We have already granted access to researchers from the following institutions:
 
 You will not receive a response if your form or email do not meet the requirements.
 
-## Licenses
+# 4. Licenses
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
