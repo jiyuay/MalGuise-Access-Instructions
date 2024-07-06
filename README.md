@@ -12,7 +12,7 @@ You can find more detailed information in our published paper [[PDF](https://arx
 
 Please fill out the following form to get the code:
 
-[[form](xxxxxxx)]
+[[form](https://docs.google.com/forms/d/e/1FAIpQLSdlJosqXTRwdPzIdNxkDA-5wxGWFJlRexOAqmJ-gJFH2PD7og/viewform)]
 
 For ethical reasons, we will only be sharing the code with verified academic researchers.
 
@@ -32,7 +32,7 @@ We have already granted access to researchers from the following institutions:
 
 # 3. Contact
 
-- To ensure your request will not be inadvertently ignored, please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) after you fill out the [form](xxxxxxx).
+- To ensure your request will not be inadvertently ignored, please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) after you fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSdlJosqXTRwdPzIdNxkDA-5wxGWFJlRexOAqmJ-gJFH2PD7og/viewform).
 - If you're part of an academic institution, reach out to us using your institutional email and provide a link to a webpage hosted on your university's domain that includes your name and affiliation.
 - If you're associated with research (industrial) labs, please send us an email from your corporate email account, introducing yourself and your company. In the email, attach a justification letter (PDF format) on official letterhead, explicitly stating the reasons for requesting the code of MalGuise.
 - Do not share the code with any others.
