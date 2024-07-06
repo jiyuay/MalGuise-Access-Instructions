@@ -4,7 +4,7 @@ This repository provides the guidelines for requesting access to the code associ
 
 MalGuise is a tool aiming to bypass existing learning-based Windows malware detection systems under the black-box setting.
 
-You can find more detailed information in our published paper [[PDF](xxxxxxx)].
+You can find more detailed information in our published paper [[PDF](https://arxiv.org/pdf/2407.02886)].
 
 ## 1.1 Citation
 
@@ -32,7 +32,7 @@ We have already granted access to researchers from the following institutions:
 
 # 3. Contact
 
-- To ensure your request will not be inadvertently ignored, please send an email to Xiang Ling (lingxiang@iscas.ac.cn) and Zhiyu Wu (wuzhiyu@zju.edu.cn) after you fill out the [form](xxxxxxx).
+- To ensure your request will not be inadvertently ignored, please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) after you fill out the [form](xxxxxxx).
 - If you're part of an academic institution, reach out to us using your institutional email and provide a link to a webpage hosted on your university's domain that includes your name and affiliation.
 - If you're associated with research (industrial) labs, please send us an email from your corporate email account, introducing yourself and your company. In the email, attach a justification letter (PDF format) on official letterhead, explicitly stating the reasons for requesting the code of MalGuise.
 - Do not share the code with any others.
