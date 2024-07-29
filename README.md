@@ -30,7 +30,7 @@ For potential ethical concerns, we will only share the code with verified academ
 
 # 3. Contact
 
-- To ensure your request will not be inadvertently ignored, please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) after you fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSdlJosqXTRwdPzIdNxkDA-5wxGWFJlRexOAqmJ-gJFH2PD7og/viewform).
+- To ensure your request will not be inadvertently ignored, please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) and cc Xiang Ling (lingxiang@iscas.ac.cn) after you fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSdlJosqXTRwdPzIdNxkDA-5wxGWFJlRexOAqmJ-gJFH2PD7og/viewform).
 - If you're part of an academic institution, reach out to us using your institutional email and provide a link to a webpage hosted on your university's domain that includes your name and affiliation.
 - If you're associated with research (industrial) labs, please send us an email from your corporate email account, introducing yourself and your company. In the email, attach a justification letter (PDF format) on official letterhead, explicitly stating the reasons for requesting the code of MalGuise.
 - Do not share the code with any others.
