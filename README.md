@@ -25,7 +25,7 @@ Please fill out this form to get the code: [[form](https://docs.google.com/forms
 
 For potential ethical concerns, we will only share the code with verified academic researchers as follows.
 
-We have already granted access to researchers from the following institutions:
+Researchers from the following institutions have been granted access:
 
 1. Hainan University
 2. Hangzhou Dianzi University
