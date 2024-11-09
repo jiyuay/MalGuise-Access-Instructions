@@ -25,7 +25,7 @@ Please fill out this form to get the code: [[form](https://docs.google.com/forms
 
 To ensure your request will not be inadvertently ignored, **please send an email to Zhiyu Wu (wuzhiyu@zju.edu.cn) and cc Xiang Ling (lingxiang@iscas.ac.cn) after you fill out the form**.
 
-For potential ethical concerns, we will only share the code with verified academic researchers as follows.
+For potential ethical concerns, we will only share the code with verified academic researchers.
 
 Researchers from the following institutions have been granted access:
 
