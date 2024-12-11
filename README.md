@@ -29,12 +29,13 @@ For potential ethical concerns, we will only share the code with verified academ
 
 Researchers from the following institutions have been granted access:
 
-1. Hainan University
-2. Hangzhou Dianzi University
-3. Nankai University
-4. Purdue University
-5. Sichuan University
-6. Southeast University
+1. Beijing Information Science and Technology University
+2. Hainan University
+3. Hangzhou Dianzi University
+4. Nankai University
+5. Purdue University
+6. Sichuan University
+7. Southeast University
 
 
 # 3. Contact
