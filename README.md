@@ -32,12 +32,15 @@ Researchers from the following institutions have been granted access:
 1. Beijing Information Science and Technology University
 2. Hainan University
 3. Hangzhou Dianzi University
-4. Nankai University
-5. National University of Defense Technology
-6. Purdue University
-7. Sichuan University
-8. Sungkyunkwan University
-9. Southeast University
+4. Institute of Information Engineering, Chinese Academy of Sciences
+5. Nankai University
+6. National University of Defense Technology
+7. Nanjing University of Science and Technology
+8. Purdue University
+9. Sichuan University
+10. Sungkyunkwan University
+11. Southeast University
+12. Zhejiang University
 
 
 # 3. Contact
