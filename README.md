@@ -34,16 +34,17 @@ Researchers from the following institutions have been granted access:
 3. Hainan University
 4. Hangzhou Dianzi University
 5. Indian Institute of Technology Bombay
-6. Institute of Information Engineering, Chinese Academy of Sciences
-7. Nankai University
-8. National University of Defense Technology
-9. Nanjing University of Science and Technology
-10. Purdue University
-11. Sichuan University
-12. Sungkyunkwan University
-13. Southeast University
-14. Universität zu Lübeck
-15. Zhejiang University
+6. Indian Institute of Technology Patna
+7. Institute of Information Engineering, Chinese Academy of Sciences
+8. Nankai University
+9. National University of Defense Technology
+10. Nanjing University of Science and Technology
+11. Purdue University
+12. Sichuan University
+13. Sungkyunkwan University
+14. Southeast University
+15. Universität zu Lübeck
+16. Zhejiang University
 
 
 # 3. Contact
